@@ -50,4 +50,9 @@ project/
 
 
 
+# Results
+https://github.com/MrWhiteBeardd/2D-obstacle-avoidance-car-using-reinforcement-learning-RL-/assets/146958928/ea12d054-874f-4aa9-8364-4e211c455c42
+
+
+
 
